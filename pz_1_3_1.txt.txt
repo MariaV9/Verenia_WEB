@@ -1,0 +1,12 @@
+git clone https://github.com/MariaV9/Verenia_WEB.git (клон створеного )
+dir
+git status
+cd /D C:\WEB\Verenia_WEB
+git status
+git add .
+git commit -m "First"
+type numbPIB.txt
+git add .
+git commit -m "Second"
+type numbPIB.txt
+git push
